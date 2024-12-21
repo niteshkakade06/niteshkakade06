@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Nitesh <img src="https://github.com/niteshkakade06/NiteshKakade/blob/main/Assets/Developer.gif" width="80px"> 
 <h3 align="center">
-3+ years of experience in Python, AI/ML, and SAP, specializing in developing scalable, AI-driven solutions for monitoring and performance optimization.</h3>
+3+ years of experience in Python and AI/ML specializing in developing scalable, AI-driven solutions for monitoring and performance optimization of SAP Syatems.</h3>
 
 <p align="left"> </p>
 
