@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshkakade06" alt="niteshkakade06"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshkakade06" alt="Nitesh Kakade"/> </p>
 
 <h1 align="center">Hi 👋, I'm Nitesh <img src="https://github.com/niteshkakade06/NiteshKakade/blob/main/Assets/Developer.gif" width="80px"> 
 <h3 align="center">
@@ -11,7 +11,7 @@
 
 <p align="right" > 
   
-  <a href="https://twitter.com/niteshkakade06" target="blank"><img src="https://img.shields.io/twitter/follow/niteshkakade06?logo=twitter&style=for-the-badge" alt="niteshkakade06" /></a>
+  <a href="https://twitter.com/niteshkakade06" target="blank"><img src="https://img.shields.io/twitter/follow/niteshkakade06?logo=twitter&style=for-the-badge" alt="Nitesh Kakade" /></a>
   
   </p>
 <img align="right" width=300px alt="Github Cat" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" />
