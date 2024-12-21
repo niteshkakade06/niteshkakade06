@@ -51,5 +51,6 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=niteshkakade06&show_icons=true&locale=en" alt="Nitesh Kakade" /></p>
 
-<p ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=niteshkakade06&show_icons=true&locale=en&layout=compact" alt="Nitesh Kakade" /></p>
+<p >
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=niteshkakade06&show_icons=true&locale=en&layout=compact" alt="Nitesh Kakade" /></p>
 
