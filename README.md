@@ -1,4 +1,7 @@
-# NiteshKakade
+
+<p align="left"> <a href="https://twitter.com/niteshkakade06" target="blank"><img src="https://img.shields.io/twitter/follow/niteshkakade06?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshkakade06" alt="niteshkakade06"/> </p>
+
 <h1 align="center">Hi 👋, I'm Nitesh <img src="https://github.com/niteshkakade06/NiteshKakade/blob/main/Assets/Developer.gif" width="80px"> 
 <h3 align="center">3+ year data-driven professional leverages Python, AI/ML, Computer Vision and AWS to build impactful solutions with deployed machine learning models.</h3>
 
