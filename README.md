@@ -3,7 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshkakade06" alt="niteshkakade06"/> </p>
 
 <h1 align="center">Hi 👋, I'm Nitesh <img src="https://github.com/niteshkakade06/NiteshKakade/blob/main/Assets/Developer.gif" width="80px"> 
-<h3 align="center">3+ year data-driven professional leverages Python, AI/ML, Computer Vision and AWS to build impactful solutions with deployed machine learning models.</h3>
+<h3 align="center">
+3+ years of experience in Python, AI/ML, and SAP, specializing in developing scalable, AI-driven solutions for monitoring and performance optimization.</h3>
 
 <p align="left"> </p>
 
