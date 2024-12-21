@@ -5,13 +5,13 @@
 <h3 align="center">
 3+ years of experience in Python and AI/ML specializing in developing scalable, AI-driven solutions for monitoring and performance optimization of SAP Syatems.</h3>
 
-<p > <a align="left" href="https://www.linkedin.com/in/Nitesh-Kakade/" target="blank"><img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Nitesh Kakade" /></a>  </p>
+<p >  </p>
 
 
 
-<p align="right" > 
-  
-  <a href="https://twitter.com/niteshkakade06" target="blank"><img src="https://img.shields.io/twitter/follow/niteshkakade06?logo=twitter&style=for-the-badge" alt="Nitesh Kakade" /></a>
+<p> 
+  <a align="left" href="https://www.linkedin.com/in/Nitesh-Kakade/" target="blank"><img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Nitesh Kakade" /></a> 
+  <a  align="right"  href="https://twitter.com/niteshkakade06" target="blank"><img src="https://img.shields.io/twitter/follow/Nitesh_Kakade?logo=twitter&style=for-the-badge" alt="Nitesh Kakade" /></a>
   
   </p>
 <img align="right" width=300px alt="Github Cat" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" />
