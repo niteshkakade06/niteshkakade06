@@ -19,8 +19,8 @@
 - 📫 You can reach me **Niteshkakade06@gmail.com**
 
 - 📄 Know about my experiences in  [My Resume](https://drive.google.com/file/d/1xmIkc9nC27CVXwkLjnDsUnYGNYXeqOsI/view?usp=sharing)
+- **GitHub**: [Nitesh's GitHub](https://github.com/niteshkakade06)
 
-- ⚡ Fun fact **Love to Ride Bikes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,13 +35,5 @@
 
 
 
-
-
-<p align="center">
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=ChitralwarManik&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
-<img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Harshita248&repo=Harshita248&countColorcountColor&countColor=%237B1E7B"/>
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chitralwarmanik" alt="chitralwarmanik" /></a> </p>
-
+**Email**: [Niteshkakade06@gmail.com](mailto:Niteshkakade06@gmail.com)
+**LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
