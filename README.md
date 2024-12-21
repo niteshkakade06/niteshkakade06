@@ -49,8 +49,8 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=niteshkakade06&" alt="Nitesh Kakade" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=niteshkakade06&show_icons=true&locale=en" alt="Nitesh Kakade" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niteshkakade06&show_icons=true&locale=en" alt="Nitesh Kakade" /></p>
 
 <p >
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=niteshkakade06&show_icons=true&locale=en&layout=compact" alt="Nitesh Kakade" /></p>
+  <img align="center"   src="https://github-readme-stats.vercel.app/api/top-langs?username=niteshkakade06&show_icons=true&locale=en&layout=compact" alt="Nitesh Kakade" /></p>
 
